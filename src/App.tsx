@@ -1,7 +1,5 @@
-
 function App() {
-
-  return <h1>hellows</h1>
+  return <button className="bg-violet-500 p-2 rounded">hellowsss</button>
 }
 
 export default App
