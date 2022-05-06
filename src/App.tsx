@@ -1,5 +1,7 @@
+import { Widget } from "./components";
+
 function App() {
-  return <button className="bg-violet-500 p-2 rounded">hellowsss</button>
+  return <Widget/>
 }
 
 export default App
